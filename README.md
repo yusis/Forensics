@@ -16,3 +16,6 @@
 # 參考資料 - 雲端運算數位鑑識系統之技術研發與建置 - 科技部工程科技推展中心
 
 # 參考 https://www.bsmi.gov.tw/wSite/public/Data/f1324880161954.pdf
+
+# 參考 http://www.cs.nccu.edu.tw/html/08/eg_seminar/20151221.pdf
+
